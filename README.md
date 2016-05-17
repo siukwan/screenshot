@@ -10,4 +10,3 @@ C#：
 python：
 1.使用了pyqt做界面
 2.需要安装pyhk，pyqt4.8库
-3.
